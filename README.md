@@ -34,4 +34,3 @@
 python3 -m venv .venv        # Создание виртуального окружения
 source .venv/bin/activate  # Активация виртуального окружения (Linux/macOS)
 .venv\Scripts\activate      # Активация виртуального окружения (Windows)
-pip install -r requirements.txt # Установка зависимостей (если есть файл requirements.txt)
